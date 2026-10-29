@@ -1,4 +1,4 @@
-# Checkpoint 3 — Séries TVmaze (React Native)
+# Checkpoint 3  Séries TVmaze (React Native)
 
 Aplicativo React Native (Expo) que consome a API pública [TVmaze](https://www.tvmaze.com/api) para listar séries e mostrar os episódios de cada uma.
 
